@@ -1,0 +1,11 @@
+# Terraform internals
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
+# .NET / Visual Studio
+# Compiled .NET files
+bin/
+obj/
+*.zip
